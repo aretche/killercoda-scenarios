@@ -3,6 +3,7 @@
     { "path": "playground" },
     { "path": "pod-intro" },
     { "path": "deployment-basics" },
-    { "path": "persistentVolumes" }
+    { "path": "persistentVolumes" },
+    { "path": "helm-use"}
   ]
 }
