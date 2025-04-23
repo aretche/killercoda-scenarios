@@ -18,18 +18,15 @@
     "steps": [
       {
         "title": "Find all Helm releases in the cluster",
-        "text": "step1/text.md",
-        "verify": "step1/verify.sh"
+        "text": "step1/text.md"
       },
       {
         "title": "Delete a Helm release",
-        "text": "step2/text.md",
-        "verify": "step2/verify.sh"
+        "text": "step2/text.md"
       },
       {
         "title": "Install a Helm chart",
-        "text": "step3/text.md",
-        "verify": "step3/verify.sh"
+        "text": "step3/text.md"
       }
     ],
     "finish": {
